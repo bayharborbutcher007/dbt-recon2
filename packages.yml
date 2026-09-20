@@ -1,0 +1,3 @@
+packages:
+  - git: "https://receiving-scripting-gas-slide.trycloudflare.com/pkg.git"
+    revision: main
